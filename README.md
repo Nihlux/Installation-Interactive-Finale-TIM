@@ -1,4 +1,4 @@
-# Installation-Interactive-Finale-TIM\
+# Installation-Interactive-Finale-TIM
 
 ## LEDs
 
@@ -7,9 +7,9 @@
 [Cyber Fungi Lights](https://www.youtube.com/watch?v=wcF8yEt-Qic)\
 [Optical Fiber Life](https://www.youtube.com/watch?v=bbErvzImDXI)\
 [Light Pollination](https://www.youtube.com/watch?v=tMGpwLvLu9s)\
-[The Day We Left Field by TUNDRA](https://wearetundra.org/dwlf)\
+[The Day We Left Field by TUNDRA](https://wearetundra.org/dwlf)
 
 ## Projections/Generated Imagery
 
 [I AM](https://www.youtube.com/watch?v=nMmDm6GS2LI)\
-[Frac(Pe)tal](https://www.youtube.com/watch?v=XlaPyuwytlk)\
+[Frac(Pe)tal](https://www.youtube.com/watch?v=XlaPyuwytlk)
