@@ -18,4 +18,4 @@
 
 ## Itératrion
 
-![LED Flower Lights Garden](/img/light-flower-gardeb.jpg)
+![LED Flower Lights Garden](/img/light-flower-garden.jpg)
