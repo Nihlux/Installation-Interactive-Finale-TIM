@@ -19,6 +19,6 @@
 ## Itératrion
 
 <img src="/img/tree-in-a-field-of-flowers.jpg" alt="Single Tree in a Field of Flowers" height="445" align="left"/>
-<img src="/img/led-flower-garden.jpg" alt="LED Flower Garden" height="231" align="center"/>
-<img src="/img/withered-nature.jpg" alt="Withered Nature" height="200" align="center"/>  
+<img src="/img/led-flower-garden.jpg" alt="LED Flower Garden" height="251" align="center"/>
+<img src="/img/withered-nature.jpg" alt="Withered Nature" height="225" align="center"/>  
 <img src="/img/yggdrasil.png" alt="Yggdrasil (World Tree)" width="705" align="center"/>
