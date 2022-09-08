@@ -21,3 +21,4 @@
 <img src="/img/tree-in-a-field-of-flowers.jpg" alt="Single Tree in a Field of Flowers" height="545" align="left"/>
 <img src="/img/led-flower-garden.jpg" alt="LED Flower Garden" height="281" align="center"/>
 <img src="/img/withered-nature.jpg" alt="Withered Nature" height="250" align="center"/>  
+<img src="/img/withered-nature.jpg" alt="Withered Nature" width="600" align="center"/>
