@@ -18,6 +18,6 @@
 
 ## Itératrion
 
-<img src="/img/tree-in-a-field-of-flowers.jpg" alt="Single Tree in a Field of Flowers" heigth="200" align="left"/>
-<img src="/img/led-flower-garden.jpg" alt="LED Flower Garden" height="100" align="right"/>
-<img src="/img/withered-nature.jpg" alt="Withered Nature" height="100" align="right"/>
+<img src="/img/tree-in-a-field-of-flowers.jpg" alt="Single Tree in a Field of Flowers" height="400" align="left"/>
+<img src="/img/led-flower-garden.jpg" alt="LED Flower Garden" height="200" align="right"/>
+<img src="/img/withered-nature.jpg" alt="Withered Nature" height="200" align="right"/>
