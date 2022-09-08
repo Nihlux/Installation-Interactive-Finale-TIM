@@ -18,6 +18,6 @@
 
 ## Itératrion
 
-![LED Flower Garden](/img/light-flower-garden.jpg)<br>
-![Single Tree in a Field of Flowers](/img/tree-in-a-field-of-flowers.jpg)<br>
-![Withered Nature](/img/withered-nature.jpg)
+<img src="/img/led-flower-garden.jpg" alt="LED Flower Garden" width="200"/><br>
+<img src="/img/tree-in-a-field-of-flowers.jpg" alt="Single Tree in a Field of Flowers" width="200"/><br>
+<img src="/img/withered-nature.jpg" alt="Withered Nature" width="200"/>
