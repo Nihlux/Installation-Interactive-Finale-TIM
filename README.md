@@ -32,8 +32,17 @@
 
 ## Itération 2
 
+### Ancrage Conceptuel
+
+#### Transhumanisme
+
 <img src="/img/environment1.PNG" alt="Text on Environmental Impacts of Transhumanism" width="660"/>  
 <img src="/img/environment2.PNG" alt="Text on Environmental Impacts of Transhumanism" width="660"/>  
 <img src="/img/environment3.PNG" alt="Text on Environmental Impacts of Transhumanism" width="660"/>  
 
-<a href="https://www.greeneuropeanjournal.eu/an-eco-social-perspective-on-transhumanism/" target="_blank">Impacts Environnementaux du Transhumanisme</a>
+<a href="https://www.greeneuropeanjournal.eu/an-eco-social-perspective-on-transhumanism/" target="_blank">Impacts Environnementaux du Transhumanisme</a>  
+
+<img src="/img/mechanical_tree2.png" alt="Mechanical Tree" height="251" align="left"/>  
+<img src="/img/mechanical_tree1.jpg" alt="Mechanical Tree" height="222"/>
+<img src="/img/mechanical_tree3.jpg" alt="Mechanical Tree" width="722"/>  
+<img src="/img/mechanical_tree4.png" alt="Mechanical Tree" width="722" align="left"/>
