@@ -44,7 +44,7 @@
 
 <img src="/img/mechanical_tree2.png" alt="Mechanical Tree" width="730" align="center"/>
 
-<div style="margin-top: 15px;">
+<div style="margin-top: 15px; margin-right: 15px">
 <img src="/img/mechanical_tree1.jpg" alt="Mechanical Tree" width="350" align="center"/>
 <img src="/img/mechanical_tree3.jpg" alt="Mechanical Tree" height="480" align="center"/>  
 </div>
