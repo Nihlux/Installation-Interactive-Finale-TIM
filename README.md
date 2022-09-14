@@ -32,6 +32,6 @@
 
 ## Itération 2
 
-<img src="/img/environment1.jpg" alt="Text on Environmental Impacts of Transhumanism" width="650"/>  
-<img src="/img/environment2.jpg" alt="Text on Environmental Impacts of Transhumanism" width="650"/>  
-<img src="/img/environment3.jpg" alt="Text on Environmental Impacts of Transhumanism" width="650"/>
+<img src="/img/environment1.PNG" alt="Text on Environmental Impacts of Transhumanism" width="650"/>  
+<img src="/img/environment2.PNG" alt="Text on Environmental Impacts of Transhumanism" width="650"/>  
+<img src="/img/environment3.PNG" alt="Text on Environmental Impacts of Transhumanism" width="650"/>
