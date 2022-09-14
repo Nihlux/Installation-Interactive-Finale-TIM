@@ -16,7 +16,7 @@
 [I AM](https://www.youtube.com/watch?v=nMmDm6GS2LI)  
 [Frac(Pe)tal](https://www.youtube.com/watch?v=XlaPyuwytlk)
 
-## Itératrion
+## Itératrion 1
 
 ### Idée développée en images
 
@@ -29,3 +29,6 @@
 ### Plan de l'installation
 
 <img src="/img/installation-petit-studio.png" alt="Plan Installation Petit Studio" width="722" align="center"/>
+
+## Itération 2
+
