@@ -42,7 +42,7 @@
 
 <a href="https://www.greeneuropeanjournal.eu/an-eco-social-perspective-on-transhumanism/" target="_blank">Impacts Environnementaux du Transhumanisme</a>  
 
-<img src="/img/mechanical_tree2.png" alt="Mechanical Tree" height="251" align="left"/>  
-<img src="/img/mechanical_tree1.jpg" alt="Mechanical Tree" height="222"/>
-<img src="/img/mechanical_tree3.jpg" alt="Mechanical Tree" width="722"/>  
-<img src="/img/mechanical_tree4.png" alt="Mechanical Tree" width="722" align="left"/>
+<img src="/img/mechanical_tree2.png" alt="Mechanical Tree" width="660" align="left"/>  
+<img src="/img/mechanical_tree1.jpg" alt="Mechanical Tree" width="315"/>
+<img src="/img/mechanical_tree3.jpg" alt="Mechanical Tree" width="315"/>  
+<img src="/img/mechanical_tree4.png" alt="Mechanical Tree" width="660" align="left"/>
