@@ -79,8 +79,8 @@ Jorge Riechmann
 
 #### Inspiration Technologique
 
-<img src="/img/arduino_touch_sensor.jpg" alt="Arduino Touch Sensor" height="400" align="left"/>
-<img src="/img/arbre_led.jpg" alt="LED Tree" height="400" align="center"/>
+<img src="/img/arduino_touch_sensor.jpg" alt="Arduino Touch Sensor" height="500" align="left"/>
+<img src="/img/arbre_led.jpg" alt="LED Tree" height="500" align="center"/>
 
 ### Concept Spécifique
 
