@@ -55,13 +55,13 @@
 
 Nature Méchanique
 
-
+<img src="/img/mechanical_tree1.jpg" alt="Mechanical Tree" width="600" align="left"/>
 
 ### Inspirations
 
 #### Inspiration Conceptuelle
 
-##### Transhumanisme
+Transhumanisme
 
 "Le transhumanisme est une utopie qui ne peut se matérialiser que comme une dystopie."
 *Traduit de l'anglais*
