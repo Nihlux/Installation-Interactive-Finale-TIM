@@ -55,7 +55,7 @@
 
 Nature Méchanique
 
-
+<img src="/img/mechanical_tree1.jpg" alt="Mechanical Tree" width="350" align="left"/>
 
 ### Inspirations
 
