@@ -79,6 +79,8 @@ Jorge Riechmann
 
 #### Inspiration Technologique
 
+<img src="/img/arbre_led.jpg" alt="Mechanical Tree" height="600"/>
+
 ### Concept Spécifique
 
 ### Reconnaissance de limites/défis
