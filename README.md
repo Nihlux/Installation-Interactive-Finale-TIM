@@ -72,7 +72,7 @@ Jorge Riechmann
 #### Inspiration Artistique
 
 <img src="/img/mechanical_tree5.jpg" alt="Mechanical Tree" height="600" align="left"/>
-<img src="/img/mechanical_tree6.jpg" alt="Mechanical Tree" height="600" align="left"/>  
+<img src="/img/mechanical_tree6.jpg" alt="Mechanical Tree" height="600" align="center"/>  
 
 [Tomasz Strzalkowski](https://www.artstation.com/tomstrzal)
 
