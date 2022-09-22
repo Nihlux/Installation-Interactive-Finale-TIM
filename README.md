@@ -79,7 +79,7 @@ Jorge Riechmann
 
 #### Inspiration Technologique
 
-<img src="/img/arbre_led.jpg" alt="Mechanical Tree" height="600"/>
+<img src="/img/arbre_led.jpg" alt="Mechanical Tree" height="600" align="center"/>
 
 ### Concept Spécifique
 
