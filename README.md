@@ -64,10 +64,10 @@ Nature Méchanique
 
 Transhumanisme
 
-"Le transhumanisme est une utopie qui ne peut se matérialiser que comme une dystopie."
+"Le transhumanisme est une utopie qui ne peut se matérialiser que comme une dystopie."  
 *Traduit de l'anglais*
 
-Jorge Riechmann
+Jorge Riechmann  
 *Philosophe, Poête et Scientifique*
 
 #### Inspiration Artistique
