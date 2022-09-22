@@ -57,6 +57,14 @@
 
 #### Inspiration Conceptuelle
 
+##### Transhumanisme
+
+"Le transhumanisme est une utopie qui ne peut se matérialiser que comme une dystopie."
+*Traduit de l'anglais*
+
+Jorge Riechmann
+*Philosophe, Poête et Scientifique*
+
 #### Inspiration Artistique
 
 #### Inspiration Technologique
