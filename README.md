@@ -83,9 +83,9 @@ Jorge Riechmann
 
 ### Reconnaissance de limites/défis
 
-1. Construction de l'arbre
+1. Construction de l'arbre  
 Solution envisagée : Engager une compagnie ou un artiste pour construire l'arbre
 
-2. Ne pas avoir de neige qui tombe dans les différents petits trous de l'arbre
-Solution envisagée #1 : Les composantes majeures de l'arbre (tronc, branches principales, etc.) seraient munies de système de chauffage la longueur des composantes
+2. Ne pas avoir de neige qui tombe dans les différents petits trous de l'arbre  
+Solution envisagée #1 : Les composantes majeures de l'arbre (tronc, branches principales, etc.) seraient munies de système de chauffage la longueur des composantes  
 Solution envisagée #2 : Aucun trou ferait face au ciel (Moins applicable pour le design pensé de l'arbre)
