@@ -55,7 +55,7 @@
 
 Nature Méchanique
 
-<img src="/img/mechanical_tree5.jpg" alt="Mechanical Tree" width="350"/>
+
 
 ### Inspirations
 
@@ -70,6 +70,11 @@ Jorge Riechmann
 *Philosophe, Poête et Scientifique*
 
 #### Inspiration Artistique
+
+<img src="/img/mechanical_tree5.jpg" alt="Mechanical Tree" height="400" align="left"/>
+<img src="/img/mechanical_tree6.jpg" alt="Mechanical Tree" height="400" align="right"/>
+
+[Tomasz Strzalkowski](https://www.artstation.com/tomstrzal)
 
 #### Inspiration Technologique
 
