@@ -48,3 +48,19 @@
 <img src="/img/mechanical_tree3.jpg" alt="Mechanical Tree" height="480" align="center"/>  
 
 <img src="/img/mechanical_tree4.png" alt="Mechanical Tree" width="730" align="center"/>
+
+## Conceptualisaion Formative
+
+### Concept Général
+
+### Inspirations
+
+#### Inspiration Conceptuelle
+
+#### Inspiration Artistique
+
+#### Inspiration Technologique
+
+### Concept Spécifique
+
+### Reconnaissance de limites/défis
